@@ -1,0 +1,12 @@
+
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dylib
+
+/WindowsFormsApp1/bin
+/WindowsFormsApp1/obj
